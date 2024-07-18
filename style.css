@@ -1,0 +1,121 @@
+.gallery img{
+    width: 20%;
+    }
+.images img{
+    width: 100%;
+    }
+h2{
+ text-align: center;
+    font-size: 30px;
+    color: black;
+    font-style: italic;
+    }
+
+h4{
+    font-family: Impact, fantasy;
+    font-size: 20px;
+    font-style:italic;
+    color: black;
+    }
+p{
+    font-family: helvetica,sans-serif;
+    font-size: 20px;
+    }
+
+
+h1{
+    text-align: center;
+    color: lightcoral;
+    font-style: italic;
+    font-family:Indie Flower, cursive;
+    font-size: 35px;
+    }
+
+#menu{background-color: white;
+    padding: 10px;
+    text-align: center;
+    }
+
+#menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    }
+    
+#menu li{
+    display: inline-block;
+    margin-right: 20px;
+    }
+
+#menu a{
+    color: black;
+    text-decoration: none;
+    font size:18px;
+    font-weight: bold;
+    }
+
+#menu hover{
+    color:lightpink;
+    }
+
+body{
+   background-color: #ffd6d6;
+  }
+
+p2{ font-family: monospace,sans-serif;
+    text-decoration-style: solid;
+    text:hover(background-color: aqua);
+    color: black;
+    font-size: 20px;
+    }
+
+ hover-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    }
+
+.button-hover {
+     background-color: #45a049;
+    }
+
+
+ h4{
+    font-family: monospace, sans-serif;
+    text-decoration: solid;
+    }
+
+.banner-container img{
+     width: 100%;
+     object-fit: cover;
+     height: 300px;
+    }
+   
+ .banner-text{ 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size: 24px;
+    font-weight:bold;
+    }
+        
+    
+        
+        
+        
+        
+        
+        
+        
+    
+    
